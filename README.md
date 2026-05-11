@@ -2,10 +2,10 @@
 
 A simple project to get started with GitHub.
 
-## Getting Startd
+## Getting Started
 
 Clone the repo and open the folder.
 
-## Contributin
+## Contributing
 
-Pull requests are welcom!
+Pull requests are welcome!
